@@ -168,12 +168,31 @@ body{
 
 .ellipse-15{
   position: relative;
-  
-  top: 2.529375rem;
+  top: 2.1rem;
+  left: -2.4rem;
   z-index: 500;
 }
 
+.ellipse-13{
+  position: relative;
+  top: 31.61625rem;
+  left: 41.966875rem;
+  z-index: 500;
+}
 
+.ellipse-12{
+  position: relative;
+  top: 3.884375rem;
+  left: 36.78rem;
+  z-index: 500;
+}
+
+.ellipse-16{
+  position: relative;
+  top: 35.080625rem;
+  left:-3.54rem;
+  z-index: 500;
+}
 
 /* Chatgpt */
 /* GLOBALS */
